@@ -1,0 +1,71 @@
+{
+    "name": "pontiflex",
+    "description": "Our concierge-style service connects brands with the right audiences. We work with clients to deliver scale, transparency, and quality campaign optimization.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1116-pontiflex.jpg",
+    "tags": [
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/pontiflex\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "pontiflex",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1116-pontiflex.jpg",
+            "humanURL": "http:\/\/www.pontiflex.com\/platform\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/pontiflex-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Website",
+            "url": "http:\/\/www.pontiflex.com\/platform\/"
+        },
+        {
+            "type": "Blog",
+            "url": "http:\/\/blog.pontiflex.com\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/blog.pontiflex.com\/feed\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/flatiron-media"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/pontiflex"
+        },
+        {
+            "type": "Email",
+            "url": "privacy@flatironmedia.com"
+        },
+        {
+            "type": "Email",
+            "url": "DMCA@flatironmedia.com"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/pontiflex"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/FlatironMedia"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/#!\/pontiflex"
+        }
+    ]
+}
